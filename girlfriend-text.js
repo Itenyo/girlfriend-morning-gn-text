@@ -24,7 +24,7 @@ function start(client) {
   const random1 = Math.floor(Math.random() * GN.length);
 
   // inputs
-  const newpnumber = prompt("Enter your girlfriend/boyfriend phone number with code (91) : ");
+  const newpnumber = prompt("Enter your girlfriend/boyfriend phone number with code (+25406551534) : ");
   const newhour = prompt("Enter Morning Hour do you want to send Message? : ");
   const newmin = prompt("Enter Morning Minutes do you want to send Message? : ");
   const newhour1 = prompt("Enter Night Hour do you want to send Message? : ");
